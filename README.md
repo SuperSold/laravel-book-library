@@ -178,4 +178,8 @@ Open
 
 * Authentication is not implemented for simplicity.
 * The project focuses on clean, readable, and beginner-friendly Laravel code.
-* This project focuses mainly in demonstrating CRUD, database relations, Eloquent, Blade, routing, and form validation.
+* This project focuses mainly in demonstrating CRUD, database relations, Eloquent, Blade, routing, and form validation.\
+  
+## Live-Demo-Link
+laravel-book-library-production-8e23.up.railway.app
+
